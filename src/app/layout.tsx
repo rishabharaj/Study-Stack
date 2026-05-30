@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "StudyOS - Personal Learning Management System",
+  title: "StudyStack - Personal Learning Management System",
   description:
     "Track what you studied, when you studied, how much you studied. Manage revisions with spaced repetition, visualize your learning journey through mind maps.",
   keywords: [

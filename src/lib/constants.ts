@@ -1,5 +1,5 @@
 // ============================================
-// StudyOS Constants
+// StudyStack Constants
 // ============================================
 
 // Spaced Repetition intervals (in days)

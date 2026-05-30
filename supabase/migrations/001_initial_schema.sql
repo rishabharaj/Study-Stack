@@ -1,5 +1,5 @@
 -- ============================================
--- StudyOS / MemoryStack Database Schema
+-- StudyStack Database Schema
 -- Run this in Supabase SQL Editor
 -- ============================================
 

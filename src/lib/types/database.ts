@@ -1,5 +1,5 @@
 // ============================================
-// StudyOS Database Types
+// StudyStack Database Types
 // Matches the Supabase PostgreSQL schema
 // ============================================
 

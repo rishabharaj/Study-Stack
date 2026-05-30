@@ -81,8 +81,8 @@ export function Sidebar() {
           </div>
           {!isCollapsed && (
             <div className="animate-fade-in">
-              <h1 className="text-lg font-bold gradient-text">StudyOS</h1>
-              <p className="text-[10px] text-muted-foreground -mt-1">MemoryStack</p>
+              <h1 className="text-lg font-bold gradient-text">StudyStack</h1>
+              <p className="text-[10px] text-muted-foreground -mt-1">Learn Smarter</p>
             </div>
           )}
         </div>

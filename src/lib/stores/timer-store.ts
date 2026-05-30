@@ -144,7 +144,7 @@ export const useTimerStore = create<TimerStore>()(
         }),
     }),
     {
-      name: "studyos-timer",
+      name: "studystack-timer",
     }
   )
 );

@@ -77,7 +77,7 @@ export default function LoginPage() {
           <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl gradient-primary mb-4 animate-pulse-glow">
             <GraduationCap className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-3xl font-bold gradient-text">StudyOS</h1>
+          <h1 className="text-3xl font-bold gradient-text">StudyStack</h1>
           <p className="text-muted-foreground mt-1">
             Welcome back to your learning journey
           </p>

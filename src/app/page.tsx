@@ -66,7 +66,7 @@ export default function LandingPage() {
           <div className="flex items-center justify-center w-10 h-10 rounded-xl gradient-primary">
             <GraduationCap className="w-5 h-5 text-white" />
           </div>
-          <span className="text-xl font-bold gradient-text">StudyOS</span>
+          <span className="text-xl font-bold gradient-text">StudyStack</span>
         </div>
         <div className="flex items-center gap-3">
           <Link
@@ -93,7 +93,7 @@ export default function LandingPage() {
 
         <h1 className="text-5xl md:text-7xl font-bold leading-tight animate-fade-in">
           Master Anything with{" "}
-          <span className="gradient-text">StudyOS</span>
+          <span className="gradient-text">StudyStack</span>
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground mt-6 max-w-2xl mx-auto animate-fade-in delay-100">
@@ -155,8 +155,8 @@ export default function LandingPage() {
       <footer className="relative z-10 border-t border-border/30 py-8 text-center text-sm text-muted-foreground">
         <p>
           Built with ❤️ for learners everywhere •{" "}
-          <span className="gradient-text font-medium">StudyOS</span> /{" "}
-          <span className="text-muted-foreground">MemoryStack</span>
+          <span className="gradient-text font-medium">StudyStack</span> {" "}
+          <span className="text-muted-foreground">by Rishabh</span>
         </p>
       </footer>
 
